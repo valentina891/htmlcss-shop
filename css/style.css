@@ -20,5 +20,16 @@ img{
     left: 580px;
     right: 0;
     top: 30px;
+}
+
+.discount{
+    width: 32px;
+    height: 15px;
+    background-color: green;
+    text-align: center;
+    line-height: 15px;
+    font-size: 15px;
+    position: relative;
+    left: 207px;
 
 }
